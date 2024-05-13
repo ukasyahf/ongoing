@@ -872,7 +872,7 @@ body {
     transform: translateY(117%);
     position: absolute;
     transition: all 3s ease-in-out;
-    color: #ffffff
+    color: #00000
 }
 
 .tool-tip-1 {
@@ -907,7 +907,7 @@ body {
     position: absolute;
     aspect-ratio: 2;
     left: 0;
-    box-shadow: 8px 8px #6d4800
+    box-shadow: 8px 8px #ffffff
 }
 
 .tool-tip-3 {
