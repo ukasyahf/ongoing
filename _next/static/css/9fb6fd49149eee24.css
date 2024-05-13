@@ -818,10 +818,10 @@ body {
 @import url("https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&display=swap");:root {
     --white: #fff;
     --black: #000;
-    --main: #fe5500;
+    --main: #bc81ff;
     --back: #a590ff;
-    --font: orange;
-    --second: orange
+    --font: white;
+    --second: #6631ef
 }
 
 .loading-parent {
@@ -951,7 +951,7 @@ body {
 .main-text {
     font-family: Cherl2;
     font-size: 10vw;
-    color: var(--font);
+    color: #6460ff;
     line-height: 1;
     display: flex;
     align-items: center;
@@ -1209,7 +1209,7 @@ body {
 .separator_blue {
     width: 100vw;
     height: 80px;
-    background-color: #faa501;
+    background-color: #6631ef;
     border-top: 3px solid #000;
     border-bottom: 0 solid #000;
     position: relative
@@ -1224,13 +1224,13 @@ body {
 .separator_in {
     width: 100%;
     height: 50%;
-    background-color: var(--main)
+    background-color: bc81ff
 }
 
 .separator_in2 {
     width: 100%;
     height: 50%;
-    background-color: #fcd52d
+    background-color: #e3d2ff
 }
 
 .h1 {
