@@ -973,7 +973,8 @@ body {
     height: 100svh;
     background-color: transparent;
     justify-content: center;
-    align-items: center;
+    align-items: center
+    padding-top: 20px;
     padding-bottom: 0;
     display: flex;
     justify-content: flex-start
