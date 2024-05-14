@@ -839,7 +839,7 @@ body {
 }
 
 .slerf-progress {
-    top: -9px;
+    top: -10px;
     width: 20%;
     position: absolute;
     transform: translate(-80%,-25%);
